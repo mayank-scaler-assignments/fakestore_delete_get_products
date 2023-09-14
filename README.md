@@ -1,1 +1,0 @@
-# fakestore_delete_get_products
